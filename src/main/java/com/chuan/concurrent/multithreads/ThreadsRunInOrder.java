@@ -1,4 +1,4 @@
-package com.chuan.interview;
+package com.chuan.concurrent.multithreads;
 
 import java.util.concurrent.*;
 import java.util.concurrent.locks.Condition;
